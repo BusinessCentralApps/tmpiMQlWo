@@ -1,0 +1,8 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmpLwAJRd-PTE@main",
+  "useProjectDependencies": true,
+  "shell": "pwsh",
+  "runs-on": "ubuntu-latest",
+  "type": "PTE"
+}
